@@ -1,6 +1,6 @@
 # React + TailwindCSS Starter
 
-This is a basic starter project for your React applications when you're looking for building UIs using an un-opinionated CSS framework. It leverages a modern JS toolchain that includes Webpack, Babel, ESlint (AirBnB) and Prettier.
+This is a basic starter project for the React applications you're looking to build using an un-opinionated CSS framework. It leverages a modern JS toolchain that includes Webpack, Babel, ESlint (AirBnB) and Prettier.
 
 **Note:** I used ESlint and Prettier as intergrations with their [corresponding](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) VSCode [extensions](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode). This project should work automatically if you're doing the same, otherwise you'll have to run linting via the cli or add your editor's versions of the extensions.
 
